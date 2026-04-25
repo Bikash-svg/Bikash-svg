@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Bikash:
+# 💫 Hi, I'm Bikash
 🔭 I’m currently working on my coding skills<br>🌱 I’m currently learning the database
 
 
